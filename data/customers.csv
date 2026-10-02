@@ -1,0 +1,651 @@
+customer_id,customer_name,region,signup_date,segment_hint
+1,Customer_0001,Ibadan,2019-01-23,Consumer
+2,Customer_0002,Abuja,2019-05-03,Consumer
+3,Customer_0003,Abuja,2018-11-05,Consumer
+4,Customer_0004,Ibadan,2018-11-06,Consumer
+5,Customer_0005,Ibadan,2019-05-16,Consumer
+6,Customer_0006,Kano,2019-02-01,Consumer
+7,Customer_0007,Port Harcourt,2019-08-10,Enterprise
+8,Customer_0008,Abuja,2019-09-15,Consumer
+9,Customer_0009,Abuja,2019-02-22,SMB
+10,Customer_0010,Kano,2018-08-12,Consumer
+11,Customer_0011,Port Harcourt,2019-02-26,Enterprise
+12,Customer_0012,Port Harcourt,2018-07-22,Consumer
+13,Customer_0013,Abuja,2019-02-03,SMB
+14,Customer_0014,Lagos,2019-03-31,Enterprise
+15,Customer_0015,Abuja,2019-03-23,Enterprise
+16,Customer_0016,Port Harcourt,2018-07-27,Consumer
+17,Customer_0017,Abuja,2018-10-19,Enterprise
+18,Customer_0018,Abuja,2019-05-01,Consumer
+19,Customer_0019,Lagos,2018-07-19,Consumer
+20,Customer_0020,Ibadan,2018-09-26,Enterprise
+21,Customer_0021,Ibadan,2018-08-11,Consumer
+22,Customer_0022,Port Harcourt,2018-09-12,Consumer
+23,Customer_0023,Port Harcourt,2019-01-12,Consumer
+24,Customer_0024,Ibadan,2019-03-25,Consumer
+25,Customer_0025,Lagos,2019-08-08,Consumer
+26,Customer_0026,Port Harcourt,2019-02-12,Enterprise
+27,Customer_0027,Abuja,2019-08-27,SMB
+28,Customer_0028,Ibadan,2019-06-21,Consumer
+29,Customer_0029,Kano,2018-09-06,Consumer
+30,Customer_0030,Ibadan,2019-05-08,Consumer
+31,Customer_0031,Lagos,2018-08-19,Consumer
+32,Customer_0032,Abuja,2018-11-29,Consumer
+33,Customer_0033,Abuja,2019-01-26,Consumer
+34,Customer_0034,Kano,2019-09-24,SMB
+35,Customer_0035,Ibadan,2019-07-30,Consumer
+36,Customer_0036,Port Harcourt,2019-09-07,Consumer
+37,Customer_0037,Port Harcourt,2019-09-13,Consumer
+38,Customer_0038,Lagos,2019-06-13,SMB
+39,Customer_0039,Kano,2018-07-06,Consumer
+40,Customer_0040,Abuja,2018-12-20,Enterprise
+41,Customer_0041,Port Harcourt,2019-01-21,Enterprise
+42,Customer_0042,Ibadan,2019-01-14,SMB
+43,Customer_0043,Lagos,2019-03-31,Consumer
+44,Customer_0044,Lagos,2019-09-24,SMB
+45,Customer_0045,Ibadan,2019-07-05,Enterprise
+46,Customer_0046,Port Harcourt,2018-10-26,Consumer
+47,Customer_0047,Port Harcourt,2019-05-31,Consumer
+48,Customer_0048,Port Harcourt,2019-09-21,Consumer
+49,Customer_0049,Abuja,2019-07-27,Enterprise
+50,Customer_0050,Ibadan,2018-11-29,Consumer
+51,Customer_0051,Ibadan,2019-02-10,SMB
+52,Customer_0052,Kano,2018-08-05,SMB
+53,Customer_0053,Port Harcourt,2019-06-16,Enterprise
+54,Customer_0054,Abuja,2019-03-31,SMB
+55,Customer_0055,Port Harcourt,2019-02-06,Enterprise
+56,Customer_0056,Kano,2019-06-03,Consumer
+57,Customer_0057,Ibadan,2018-11-22,Enterprise
+58,Customer_0058,Ibadan,2018-10-08,SMB
+59,Customer_0059,Port Harcourt,2018-10-10,Consumer
+60,Customer_0060,Port Harcourt,2019-06-07,SMB
+61,Customer_0061,Abuja,2019-09-09,Consumer
+62,Customer_0062,Port Harcourt,2019-08-09,Enterprise
+63,Customer_0063,Abuja,2019-07-16,Enterprise
+64,Customer_0064,Port Harcourt,2019-09-14,Enterprise
+65,Customer_0065,Lagos,2018-07-02,Consumer
+66,Customer_0066,Kano,2018-07-01,SMB
+67,Customer_0067,Abuja,2019-06-10,Enterprise
+68,Customer_0068,Port Harcourt,2018-10-14,Enterprise
+69,Customer_0069,Kano,2019-02-25,SMB
+70,Customer_0070,Lagos,2018-10-11,Consumer
+71,Customer_0071,Port Harcourt,2019-08-17,Consumer
+72,Customer_0072,Lagos,2019-04-24,Consumer
+73,Customer_0073,Port Harcourt,2019-01-30,SMB
+74,Customer_0074,Kano,2019-04-12,SMB
+75,Customer_0075,Lagos,2018-10-08,Enterprise
+76,Customer_0076,Abuja,2019-01-21,SMB
+77,Customer_0077,Port Harcourt,2019-02-21,Consumer
+78,Customer_0078,Abuja,2019-09-23,Enterprise
+79,Customer_0079,Ibadan,2019-09-18,Enterprise
+80,Customer_0080,Abuja,2019-04-14,SMB
+81,Customer_0081,Abuja,2018-11-06,SMB
+82,Customer_0082,Kano,2019-02-23,Enterprise
+83,Customer_0083,Ibadan,2018-10-03,Enterprise
+84,Customer_0084,Abuja,2019-06-06,Consumer
+85,Customer_0085,Abuja,2019-03-30,Enterprise
+86,Customer_0086,Lagos,2019-03-25,Consumer
+87,Customer_0087,Ibadan,2018-12-16,Consumer
+88,Customer_0088,Lagos,2018-12-19,SMB
+89,Customer_0089,Lagos,2019-05-21,SMB
+90,Customer_0090,Port Harcourt,2019-01-28,Consumer
+91,Customer_0091,Kano,2018-09-08,Consumer
+92,Customer_0092,Lagos,2019-01-20,Consumer
+93,Customer_0093,Kano,2018-12-23,Consumer
+94,Customer_0094,Port Harcourt,2019-04-11,Consumer
+95,Customer_0095,Ibadan,2019-09-02,Consumer
+96,Customer_0096,Ibadan,2019-06-22,Consumer
+97,Customer_0097,Abuja,2019-08-17,Consumer
+98,Customer_0098,Abuja,2019-03-06,SMB
+99,Customer_0099,Port Harcourt,2018-11-19,Consumer
+100,Customer_0100,Abuja,2019-04-13,Consumer
+101,Customer_0101,Port Harcourt,2019-06-25,Consumer
+102,Customer_0102,Lagos,2019-07-16,Consumer
+103,Customer_0103,Abuja,2019-08-27,Consumer
+104,Customer_0104,Lagos,2019-04-06,Consumer
+105,Customer_0105,Kano,2019-07-24,Enterprise
+106,Customer_0106,Port Harcourt,2018-09-24,Consumer
+107,Customer_0107,Kano,2019-05-11,Consumer
+108,Customer_0108,Lagos,2018-12-22,SMB
+109,Customer_0109,Ibadan,2019-08-19,Consumer
+110,Customer_0110,Abuja,2018-12-05,Consumer
+111,Customer_0111,Ibadan,2018-09-14,Consumer
+112,Customer_0112,Ibadan,2018-10-27,Consumer
+113,Customer_0113,Abuja,2019-08-05,Enterprise
+114,Customer_0114,Kano,2019-07-11,Consumer
+115,Customer_0115,Abuja,2019-09-22,Consumer
+116,Customer_0116,Ibadan,2019-08-01,SMB
+117,Customer_0117,Port Harcourt,2018-11-07,Consumer
+118,Customer_0118,Ibadan,2019-04-26,Consumer
+119,Customer_0119,Abuja,2018-12-01,Consumer
+120,Customer_0120,Port Harcourt,2018-07-06,SMB
+121,Customer_0121,Lagos,2018-11-26,Enterprise
+122,Customer_0122,Lagos,2019-02-04,Consumer
+123,Customer_0123,Abuja,2018-12-29,SMB
+124,Customer_0124,Port Harcourt,2019-09-07,SMB
+125,Customer_0125,Lagos,2019-08-17,Enterprise
+126,Customer_0126,Port Harcourt,2019-08-21,Consumer
+127,Customer_0127,Abuja,2019-04-07,Consumer
+128,Customer_0128,Port Harcourt,2019-07-27,Enterprise
+129,Customer_0129,Kano,2019-01-31,Consumer
+130,Customer_0130,Kano,2018-09-28,Enterprise
+131,Customer_0131,Abuja,2018-07-28,Consumer
+132,Customer_0132,Port Harcourt,2019-05-28,Consumer
+133,Customer_0133,Kano,2019-09-05,Consumer
+134,Customer_0134,Lagos,2019-02-08,Consumer
+135,Customer_0135,Abuja,2019-09-02,Consumer
+136,Customer_0136,Port Harcourt,2018-10-01,Consumer
+137,Customer_0137,Port Harcourt,2019-09-24,Consumer
+138,Customer_0138,Ibadan,2019-04-23,Consumer
+139,Customer_0139,Lagos,2018-07-02,Enterprise
+140,Customer_0140,Lagos,2019-02-14,Consumer
+141,Customer_0141,Abuja,2019-04-28,SMB
+142,Customer_0142,Abuja,2019-02-08,Enterprise
+143,Customer_0143,Lagos,2019-05-10,SMB
+144,Customer_0144,Abuja,2019-03-15,Consumer
+145,Customer_0145,Kano,2019-07-11,Enterprise
+146,Customer_0146,Lagos,2018-10-15,Enterprise
+147,Customer_0147,Abuja,2019-05-10,Consumer
+148,Customer_0148,Ibadan,2018-09-07,Consumer
+149,Customer_0149,Port Harcourt,2018-09-27,Consumer
+150,Customer_0150,Kano,2019-05-30,Consumer
+151,Customer_0151,Abuja,2018-10-29,Consumer
+152,Customer_0152,Ibadan,2019-06-17,Enterprise
+153,Customer_0153,Kano,2019-03-26,Consumer
+154,Customer_0154,Port Harcourt,2018-11-01,SMB
+155,Customer_0155,Kano,2019-07-28,SMB
+156,Customer_0156,Abuja,2019-03-11,Consumer
+157,Customer_0157,Lagos,2019-08-11,Consumer
+158,Customer_0158,Lagos,2019-02-09,SMB
+159,Customer_0159,Lagos,2018-10-06,SMB
+160,Customer_0160,Port Harcourt,2018-10-03,SMB
+161,Customer_0161,Kano,2018-07-06,SMB
+162,Customer_0162,Port Harcourt,2018-10-09,Consumer
+163,Customer_0163,Port Harcourt,2018-09-20,Enterprise
+164,Customer_0164,Port Harcourt,2018-09-11,SMB
+165,Customer_0165,Ibadan,2018-10-10,Consumer
+166,Customer_0166,Port Harcourt,2018-07-14,Consumer
+167,Customer_0167,Kano,2018-09-11,Consumer
+168,Customer_0168,Ibadan,2019-09-01,Consumer
+169,Customer_0169,Port Harcourt,2018-12-31,Enterprise
+170,Customer_0170,Kano,2018-11-03,Consumer
+171,Customer_0171,Lagos,2019-08-04,Consumer
+172,Customer_0172,Abuja,2018-07-15,Consumer
+173,Customer_0173,Port Harcourt,2018-10-22,SMB
+174,Customer_0174,Lagos,2019-07-25,Consumer
+175,Customer_0175,Lagos,2019-02-08,Enterprise
+176,Customer_0176,Port Harcourt,2018-08-11,Enterprise
+177,Customer_0177,Kano,2019-02-02,Enterprise
+178,Customer_0178,Kano,2019-07-29,SMB
+179,Customer_0179,Port Harcourt,2018-12-15,Consumer
+180,Customer_0180,Kano,2018-11-17,Consumer
+181,Customer_0181,Lagos,2018-08-02,Consumer
+182,Customer_0182,Port Harcourt,2018-11-14,Consumer
+183,Customer_0183,Port Harcourt,2018-11-16,Consumer
+184,Customer_0184,Ibadan,2018-10-17,Enterprise
+185,Customer_0185,Lagos,2019-03-25,SMB
+186,Customer_0186,Ibadan,2018-08-09,Consumer
+187,Customer_0187,Lagos,2019-07-13,SMB
+188,Customer_0188,Ibadan,2019-03-11,Enterprise
+189,Customer_0189,Port Harcourt,2019-08-11,Consumer
+190,Customer_0190,Kano,2019-05-06,Consumer
+191,Customer_0191,Ibadan,2018-11-24,Consumer
+192,Customer_0192,Kano,2018-08-04,SMB
+193,Customer_0193,Ibadan,2019-02-18,SMB
+194,Customer_0194,Lagos,2019-05-01,Consumer
+195,Customer_0195,Kano,2018-07-25,Consumer
+196,Customer_0196,Abuja,2019-05-21,Enterprise
+197,Customer_0197,Ibadan,2018-10-07,Consumer
+198,Customer_0198,Lagos,2018-07-11,SMB
+199,Customer_0199,Abuja,2018-10-20,Consumer
+200,Customer_0200,Ibadan,2018-07-07,SMB
+201,Customer_0201,Abuja,2018-10-02,SMB
+202,Customer_0202,Ibadan,2018-09-29,Consumer
+203,Customer_0203,Abuja,2018-12-06,Enterprise
+204,Customer_0204,Lagos,2019-01-14,Consumer
+205,Customer_0205,Kano,2018-11-15,SMB
+206,Customer_0206,Abuja,2018-11-06,SMB
+207,Customer_0207,Lagos,2019-07-08,Consumer
+208,Customer_0208,Kano,2019-07-19,Consumer
+209,Customer_0209,Ibadan,2018-11-06,Enterprise
+210,Customer_0210,Port Harcourt,2018-09-04,Enterprise
+211,Customer_0211,Kano,2018-10-20,SMB
+212,Customer_0212,Ibadan,2019-08-29,SMB
+213,Customer_0213,Port Harcourt,2019-03-14,Consumer
+214,Customer_0214,Port Harcourt,2019-02-21,Consumer
+215,Customer_0215,Port Harcourt,2018-10-06,Consumer
+216,Customer_0216,Kano,2019-08-15,Consumer
+217,Customer_0217,Port Harcourt,2019-05-11,Consumer
+218,Customer_0218,Kano,2018-10-25,Enterprise
+219,Customer_0219,Abuja,2019-08-05,Consumer
+220,Customer_0220,Ibadan,2018-12-20,Consumer
+221,Customer_0221,Ibadan,2018-07-06,Consumer
+222,Customer_0222,Ibadan,2019-02-03,Consumer
+223,Customer_0223,Lagos,2018-08-12,Consumer
+224,Customer_0224,Lagos,2019-09-19,Consumer
+225,Customer_0225,Abuja,2018-11-30,Consumer
+226,Customer_0226,Port Harcourt,2018-09-14,SMB
+227,Customer_0227,Kano,2018-09-27,Consumer
+228,Customer_0228,Kano,2018-08-15,Consumer
+229,Customer_0229,Lagos,2018-12-13,Consumer
+230,Customer_0230,Ibadan,2018-11-30,SMB
+231,Customer_0231,Lagos,2019-03-16,Enterprise
+232,Customer_0232,Port Harcourt,2019-05-29,Enterprise
+233,Customer_0233,Kano,2019-04-04,SMB
+234,Customer_0234,Port Harcourt,2018-10-20,Consumer
+235,Customer_0235,Port Harcourt,2018-07-23,Consumer
+236,Customer_0236,Abuja,2019-09-09,Enterprise
+237,Customer_0237,Ibadan,2019-07-03,Consumer
+238,Customer_0238,Port Harcourt,2019-05-06,Consumer
+239,Customer_0239,Kano,2019-07-08,SMB
+240,Customer_0240,Lagos,2018-07-11,SMB
+241,Customer_0241,Abuja,2018-09-17,Enterprise
+242,Customer_0242,Lagos,2018-07-24,SMB
+243,Customer_0243,Kano,2019-06-10,SMB
+244,Customer_0244,Port Harcourt,2019-09-01,Consumer
+245,Customer_0245,Port Harcourt,2019-04-10,Consumer
+246,Customer_0246,Kano,2019-07-08,SMB
+247,Customer_0247,Port Harcourt,2018-07-17,Enterprise
+248,Customer_0248,Abuja,2018-10-10,Consumer
+249,Customer_0249,Lagos,2018-09-28,Enterprise
+250,Customer_0250,Ibadan,2019-01-17,Enterprise
+251,Customer_0251,Kano,2019-01-07,Enterprise
+252,Customer_0252,Lagos,2018-11-10,Consumer
+253,Customer_0253,Port Harcourt,2019-08-03,Consumer
+254,Customer_0254,Port Harcourt,2018-08-02,Consumer
+255,Customer_0255,Port Harcourt,2018-07-03,Enterprise
+256,Customer_0256,Kano,2018-12-08,Consumer
+257,Customer_0257,Lagos,2019-04-30,SMB
+258,Customer_0258,Ibadan,2018-11-19,Consumer
+259,Customer_0259,Abuja,2018-09-08,SMB
+260,Customer_0260,Lagos,2019-06-25,SMB
+261,Customer_0261,Abuja,2018-09-11,Enterprise
+262,Customer_0262,Kano,2019-03-26,Consumer
+263,Customer_0263,Port Harcourt,2018-11-13,Enterprise
+264,Customer_0264,Ibadan,2019-07-16,Consumer
+265,Customer_0265,Port Harcourt,2019-09-02,Consumer
+266,Customer_0266,Abuja,2019-03-09,Enterprise
+267,Customer_0267,Lagos,2019-05-30,Enterprise
+268,Customer_0268,Port Harcourt,2019-09-24,Consumer
+269,Customer_0269,Kano,2019-08-04,Consumer
+270,Customer_0270,Ibadan,2018-09-03,Consumer
+271,Customer_0271,Kano,2018-12-29,Consumer
+272,Customer_0272,Port Harcourt,2019-05-26,Consumer
+273,Customer_0273,Lagos,2018-08-03,Consumer
+274,Customer_0274,Lagos,2019-07-06,Enterprise
+275,Customer_0275,Kano,2018-10-12,Enterprise
+276,Customer_0276,Lagos,2019-03-12,Consumer
+277,Customer_0277,Lagos,2019-07-08,Consumer
+278,Customer_0278,Ibadan,2018-09-18,Consumer
+279,Customer_0279,Kano,2018-09-03,Enterprise
+280,Customer_0280,Kano,2018-11-25,Consumer
+281,Customer_0281,Lagos,2019-07-30,SMB
+282,Customer_0282,Lagos,2018-07-29,Consumer
+283,Customer_0283,Ibadan,2019-04-18,SMB
+284,Customer_0284,Ibadan,2019-07-24,Consumer
+285,Customer_0285,Kano,2018-11-23,SMB
+286,Customer_0286,Abuja,2019-06-23,Consumer
+287,Customer_0287,Port Harcourt,2019-08-08,SMB
+288,Customer_0288,Abuja,2019-04-01,Enterprise
+289,Customer_0289,Port Harcourt,2019-06-12,Consumer
+290,Customer_0290,Port Harcourt,2019-03-20,Enterprise
+291,Customer_0291,Lagos,2019-09-04,Enterprise
+292,Customer_0292,Ibadan,2019-06-28,SMB
+293,Customer_0293,Port Harcourt,2019-05-07,Enterprise
+294,Customer_0294,Kano,2018-07-01,Consumer
+295,Customer_0295,Lagos,2019-07-30,SMB
+296,Customer_0296,Abuja,2018-10-27,Consumer
+297,Customer_0297,Kano,2018-09-20,Consumer
+298,Customer_0298,Port Harcourt,2018-12-01,SMB
+299,Customer_0299,Port Harcourt,2019-01-18,Enterprise
+300,Customer_0300,Port Harcourt,2018-09-21,SMB
+301,Customer_0301,Abuja,2019-08-05,Consumer
+302,Customer_0302,Kano,2018-09-18,Enterprise
+303,Customer_0303,Port Harcourt,2019-02-23,Enterprise
+304,Customer_0304,Port Harcourt,2019-05-19,Consumer
+305,Customer_0305,Kano,2018-12-15,Consumer
+306,Customer_0306,Kano,2019-06-19,Consumer
+307,Customer_0307,Ibadan,2019-03-15,Consumer
+308,Customer_0308,Ibadan,2019-08-12,Consumer
+309,Customer_0309,Lagos,2019-03-14,Enterprise
+310,Customer_0310,Ibadan,2018-12-17,SMB
+311,Customer_0311,Abuja,2018-12-16,Consumer
+312,Customer_0312,Abuja,2018-08-15,Consumer
+313,Customer_0313,Ibadan,2019-08-11,Consumer
+314,Customer_0314,Ibadan,2018-11-03,Consumer
+315,Customer_0315,Lagos,2018-12-22,Consumer
+316,Customer_0316,Lagos,2018-07-31,Consumer
+317,Customer_0317,Ibadan,2019-05-19,Enterprise
+318,Customer_0318,Port Harcourt,2018-10-19,Enterprise
+319,Customer_0319,Kano,2018-12-21,Consumer
+320,Customer_0320,Kano,2018-10-02,Enterprise
+321,Customer_0321,Ibadan,2019-05-02,SMB
+322,Customer_0322,Abuja,2018-11-19,Consumer
+323,Customer_0323,Kano,2019-03-04,SMB
+324,Customer_0324,Abuja,2019-06-19,Enterprise
+325,Customer_0325,Ibadan,2019-02-13,Consumer
+326,Customer_0326,Kano,2019-02-18,Enterprise
+327,Customer_0327,Kano,2019-05-02,SMB
+328,Customer_0328,Ibadan,2019-04-01,Enterprise
+329,Customer_0329,Lagos,2019-08-03,Enterprise
+330,Customer_0330,Ibadan,2018-07-18,Consumer
+331,Customer_0331,Port Harcourt,2018-09-01,Enterprise
+332,Customer_0332,Ibadan,2018-07-06,Enterprise
+333,Customer_0333,Lagos,2018-12-08,Consumer
+334,Customer_0334,Lagos,2018-09-03,Enterprise
+335,Customer_0335,Lagos,2019-04-03,Consumer
+336,Customer_0336,Kano,2018-09-03,Consumer
+337,Customer_0337,Abuja,2018-09-07,SMB
+338,Customer_0338,Port Harcourt,2018-07-11,Consumer
+339,Customer_0339,Abuja,2018-07-23,Consumer
+340,Customer_0340,Abuja,2018-10-07,Consumer
+341,Customer_0341,Kano,2018-10-18,Consumer
+342,Customer_0342,Ibadan,2018-10-03,SMB
+343,Customer_0343,Port Harcourt,2019-03-01,SMB
+344,Customer_0344,Port Harcourt,2018-12-25,Consumer
+345,Customer_0345,Lagos,2018-11-27,Enterprise
+346,Customer_0346,Abuja,2018-08-23,Consumer
+347,Customer_0347,Abuja,2019-08-25,Enterprise
+348,Customer_0348,Port Harcourt,2019-08-13,SMB
+349,Customer_0349,Abuja,2018-12-22,Enterprise
+350,Customer_0350,Port Harcourt,2018-12-19,Enterprise
+351,Customer_0351,Ibadan,2019-05-28,Consumer
+352,Customer_0352,Lagos,2019-02-26,SMB
+353,Customer_0353,Kano,2019-04-01,Consumer
+354,Customer_0354,Lagos,2018-12-17,Consumer
+355,Customer_0355,Port Harcourt,2019-02-03,Consumer
+356,Customer_0356,Port Harcourt,2018-09-28,SMB
+357,Customer_0357,Kano,2019-01-04,SMB
+358,Customer_0358,Port Harcourt,2019-06-11,SMB
+359,Customer_0359,Port Harcourt,2019-07-16,Enterprise
+360,Customer_0360,Kano,2018-09-24,Consumer
+361,Customer_0361,Port Harcourt,2019-06-06,Consumer
+362,Customer_0362,Ibadan,2018-08-14,Consumer
+363,Customer_0363,Lagos,2019-08-08,Consumer
+364,Customer_0364,Port Harcourt,2018-08-27,Enterprise
+365,Customer_0365,Port Harcourt,2019-09-15,Consumer
+366,Customer_0366,Abuja,2019-09-13,Consumer
+367,Customer_0367,Abuja,2019-09-02,SMB
+368,Customer_0368,Kano,2019-08-16,Enterprise
+369,Customer_0369,Lagos,2018-09-24,SMB
+370,Customer_0370,Abuja,2018-12-08,Enterprise
+371,Customer_0371,Ibadan,2018-11-15,Consumer
+372,Customer_0372,Kano,2018-09-25,Consumer
+373,Customer_0373,Lagos,2019-06-02,Consumer
+374,Customer_0374,Port Harcourt,2018-07-17,SMB
+375,Customer_0375,Abuja,2019-02-26,Consumer
+376,Customer_0376,Port Harcourt,2018-09-09,SMB
+377,Customer_0377,Port Harcourt,2019-04-23,Consumer
+378,Customer_0378,Abuja,2018-12-09,Consumer
+379,Customer_0379,Port Harcourt,2018-11-05,Enterprise
+380,Customer_0380,Kano,2018-08-27,Consumer
+381,Customer_0381,Kano,2019-08-18,Consumer
+382,Customer_0382,Kano,2018-07-01,Consumer
+383,Customer_0383,Ibadan,2018-12-10,Enterprise
+384,Customer_0384,Abuja,2019-01-01,Consumer
+385,Customer_0385,Ibadan,2018-10-18,Enterprise
+386,Customer_0386,Ibadan,2018-11-21,Consumer
+387,Customer_0387,Abuja,2019-02-14,SMB
+388,Customer_0388,Lagos,2019-03-23,Consumer
+389,Customer_0389,Port Harcourt,2019-09-21,Enterprise
+390,Customer_0390,Abuja,2019-08-06,Consumer
+391,Customer_0391,Lagos,2019-04-10,Consumer
+392,Customer_0392,Abuja,2018-07-17,SMB
+393,Customer_0393,Ibadan,2019-09-15,Consumer
+394,Customer_0394,Lagos,2018-08-06,Consumer
+395,Customer_0395,Abuja,2018-07-09,Consumer
+396,Customer_0396,Lagos,2018-09-02,Consumer
+397,Customer_0397,Lagos,2018-08-10,SMB
+398,Customer_0398,Port Harcourt,2019-08-13,SMB
+399,Customer_0399,Ibadan,2018-09-28,Enterprise
+400,Customer_0400,Lagos,2019-05-03,Enterprise
+401,Customer_0401,Ibadan,2018-10-01,Consumer
+402,Customer_0402,Ibadan,2019-03-20,SMB
+403,Customer_0403,Port Harcourt,2018-08-09,Consumer
+404,Customer_0404,Port Harcourt,2019-06-18,SMB
+405,Customer_0405,Lagos,2019-05-03,Consumer
+406,Customer_0406,Abuja,2019-06-09,Consumer
+407,Customer_0407,Kano,2019-03-21,SMB
+408,Customer_0408,Abuja,2019-07-19,Enterprise
+409,Customer_0409,Port Harcourt,2018-08-26,Enterprise
+410,Customer_0410,Abuja,2019-07-17,Consumer
+411,Customer_0411,Abuja,2018-07-18,Enterprise
+412,Customer_0412,Lagos,2019-08-16,Consumer
+413,Customer_0413,Abuja,2018-10-12,Consumer
+414,Customer_0414,Ibadan,2019-05-17,Consumer
+415,Customer_0415,Port Harcourt,2019-04-28,Consumer
+416,Customer_0416,Abuja,2019-08-06,Consumer
+417,Customer_0417,Kano,2019-08-31,Consumer
+418,Customer_0418,Kano,2019-06-12,Enterprise
+419,Customer_0419,Kano,2019-06-13,Enterprise
+420,Customer_0420,Port Harcourt,2019-05-14,SMB
+421,Customer_0421,Ibadan,2019-03-23,Consumer
+422,Customer_0422,Ibadan,2019-04-13,SMB
+423,Customer_0423,Ibadan,2019-07-21,Consumer
+424,Customer_0424,Kano,2019-08-10,Consumer
+425,Customer_0425,Abuja,2019-09-23,Consumer
+426,Customer_0426,Lagos,2019-09-18,Consumer
+427,Customer_0427,Abuja,2019-05-05,Consumer
+428,Customer_0428,Kano,2019-03-26,Enterprise
+429,Customer_0429,Port Harcourt,2019-07-25,Consumer
+430,Customer_0430,Ibadan,2018-11-22,Consumer
+431,Customer_0431,Port Harcourt,2019-06-09,Consumer
+432,Customer_0432,Kano,2018-08-06,Consumer
+433,Customer_0433,Kano,2019-07-21,SMB
+434,Customer_0434,Abuja,2019-01-01,Consumer
+435,Customer_0435,Ibadan,2019-05-19,SMB
+436,Customer_0436,Ibadan,2019-04-18,Consumer
+437,Customer_0437,Port Harcourt,2018-12-23,Consumer
+438,Customer_0438,Port Harcourt,2018-10-16,SMB
+439,Customer_0439,Kano,2018-10-22,Consumer
+440,Customer_0440,Ibadan,2019-07-10,Consumer
+441,Customer_0441,Port Harcourt,2019-03-01,SMB
+442,Customer_0442,Abuja,2019-02-21,Consumer
+443,Customer_0443,Port Harcourt,2019-05-15,Consumer
+444,Customer_0444,Ibadan,2019-03-25,SMB
+445,Customer_0445,Port Harcourt,2018-07-10,Consumer
+446,Customer_0446,Ibadan,2019-07-30,Consumer
+447,Customer_0447,Kano,2019-05-15,SMB
+448,Customer_0448,Lagos,2019-04-14,Consumer
+449,Customer_0449,Kano,2019-01-16,Consumer
+450,Customer_0450,Port Harcourt,2019-04-01,Consumer
+451,Customer_0451,Lagos,2018-09-18,Consumer
+452,Customer_0452,Lagos,2019-03-04,Enterprise
+453,Customer_0453,Kano,2018-12-04,Enterprise
+454,Customer_0454,Kano,2019-08-02,Enterprise
+455,Customer_0455,Kano,2018-07-02,Consumer
+456,Customer_0456,Kano,2019-02-18,SMB
+457,Customer_0457,Port Harcourt,2018-11-03,SMB
+458,Customer_0458,Lagos,2018-08-22,Consumer
+459,Customer_0459,Abuja,2019-08-09,Consumer
+460,Customer_0460,Port Harcourt,2019-06-27,Consumer
+461,Customer_0461,Abuja,2019-08-13,Enterprise
+462,Customer_0462,Lagos,2019-08-09,SMB
+463,Customer_0463,Ibadan,2018-10-20,Enterprise
+464,Customer_0464,Port Harcourt,2019-09-03,Consumer
+465,Customer_0465,Abuja,2018-09-29,Consumer
+466,Customer_0466,Ibadan,2018-08-12,Consumer
+467,Customer_0467,Ibadan,2019-03-30,Consumer
+468,Customer_0468,Kano,2018-10-16,Enterprise
+469,Customer_0469,Lagos,2018-11-30,Consumer
+470,Customer_0470,Port Harcourt,2018-08-05,Enterprise
+471,Customer_0471,Abuja,2018-09-12,Consumer
+472,Customer_0472,Ibadan,2018-08-05,Consumer
+473,Customer_0473,Port Harcourt,2019-03-20,Enterprise
+474,Customer_0474,Kano,2018-10-10,SMB
+475,Customer_0475,Ibadan,2019-04-27,SMB
+476,Customer_0476,Abuja,2019-07-10,Enterprise
+477,Customer_0477,Abuja,2018-09-08,Consumer
+478,Customer_0478,Ibadan,2019-01-25,Enterprise
+479,Customer_0479,Port Harcourt,2018-11-07,Enterprise
+480,Customer_0480,Lagos,2018-12-27,Consumer
+481,Customer_0481,Ibadan,2018-10-18,Consumer
+482,Customer_0482,Ibadan,2019-02-12,Consumer
+483,Customer_0483,Abuja,2019-06-11,Consumer
+484,Customer_0484,Kano,2019-02-12,Enterprise
+485,Customer_0485,Lagos,2019-03-03,Consumer
+486,Customer_0486,Lagos,2018-10-24,Consumer
+487,Customer_0487,Ibadan,2019-03-30,Consumer
+488,Customer_0488,Abuja,2018-09-10,SMB
+489,Customer_0489,Port Harcourt,2019-01-13,Consumer
+490,Customer_0490,Kano,2019-04-26,Enterprise
+491,Customer_0491,Abuja,2018-07-17,Enterprise
+492,Customer_0492,Ibadan,2019-04-11,Consumer
+493,Customer_0493,Port Harcourt,2018-07-06,SMB
+494,Customer_0494,Port Harcourt,2018-10-08,SMB
+495,Customer_0495,Abuja,2018-09-01,Enterprise
+496,Customer_0496,Ibadan,2018-11-29,SMB
+497,Customer_0497,Ibadan,2019-05-16,Consumer
+498,Customer_0498,Lagos,2018-07-15,Consumer
+499,Customer_0499,Port Harcourt,2019-03-25,SMB
+500,Customer_0500,Lagos,2019-02-23,Consumer
+501,Customer_0501,Abuja,2019-02-27,Consumer
+502,Customer_0502,Port Harcourt,2019-09-14,Enterprise
+503,Customer_0503,Lagos,2018-12-16,Consumer
+504,Customer_0504,Port Harcourt,2019-06-09,Enterprise
+505,Customer_0505,Kano,2019-04-18,Enterprise
+506,Customer_0506,Abuja,2018-07-18,Consumer
+507,Customer_0507,Kano,2019-03-13,Consumer
+508,Customer_0508,Abuja,2018-10-19,Enterprise
+509,Customer_0509,Lagos,2018-12-17,Enterprise
+510,Customer_0510,Lagos,2019-03-14,Enterprise
+511,Customer_0511,Kano,2019-06-30,Consumer
+512,Customer_0512,Kano,2018-07-30,Consumer
+513,Customer_0513,Abuja,2019-01-17,Consumer
+514,Customer_0514,Abuja,2018-11-08,Consumer
+515,Customer_0515,Port Harcourt,2018-07-11,SMB
+516,Customer_0516,Ibadan,2018-12-25,Consumer
+517,Customer_0517,Ibadan,2019-01-12,SMB
+518,Customer_0518,Kano,2018-08-19,Enterprise
+519,Customer_0519,Lagos,2019-05-23,SMB
+520,Customer_0520,Abuja,2018-10-25,SMB
+521,Customer_0521,Lagos,2018-07-06,Consumer
+522,Customer_0522,Kano,2019-02-07,Consumer
+523,Customer_0523,Kano,2018-12-23,Enterprise
+524,Customer_0524,Ibadan,2019-08-05,SMB
+525,Customer_0525,Abuja,2019-09-19,Consumer
+526,Customer_0526,Kano,2018-12-24,Consumer
+527,Customer_0527,Abuja,2019-05-12,Consumer
+528,Customer_0528,Lagos,2019-08-19,SMB
+529,Customer_0529,Lagos,2019-01-22,SMB
+530,Customer_0530,Port Harcourt,2019-06-18,SMB
+531,Customer_0531,Lagos,2018-09-14,Consumer
+532,Customer_0532,Lagos,2019-06-02,SMB
+533,Customer_0533,Kano,2018-08-19,Consumer
+534,Customer_0534,Ibadan,2019-05-11,Consumer
+535,Customer_0535,Kano,2018-12-02,Consumer
+536,Customer_0536,Ibadan,2019-09-21,Consumer
+537,Customer_0537,Abuja,2018-09-18,SMB
+538,Customer_0538,Lagos,2019-06-17,SMB
+539,Customer_0539,Port Harcourt,2019-03-18,Enterprise
+540,Customer_0540,Abuja,2018-08-06,Enterprise
+541,Customer_0541,Abuja,2019-06-20,SMB
+542,Customer_0542,Kano,2019-05-25,SMB
+543,Customer_0543,Ibadan,2019-07-31,Consumer
+544,Customer_0544,Lagos,2019-05-04,Consumer
+545,Customer_0545,Lagos,2019-05-07,Consumer
+546,Customer_0546,Abuja,2019-09-22,SMB
+547,Customer_0547,Ibadan,2019-03-19,Consumer
+548,Customer_0548,Ibadan,2019-04-28,Enterprise
+549,Customer_0549,Abuja,2018-09-29,Enterprise
+550,Customer_0550,Port Harcourt,2019-05-06,SMB
+551,Customer_0551,Ibadan,2019-08-22,Consumer
+552,Customer_0552,Kano,2018-07-01,Consumer
+553,Customer_0553,Ibadan,2018-12-21,SMB
+554,Customer_0554,Port Harcourt,2018-10-31,SMB
+555,Customer_0555,Lagos,2019-07-07,Consumer
+556,Customer_0556,Lagos,2019-04-24,Consumer
+557,Customer_0557,Kano,2018-12-15,SMB
+558,Customer_0558,Abuja,2019-04-22,Consumer
+559,Customer_0559,Ibadan,2018-10-25,Consumer
+560,Customer_0560,Lagos,2018-10-16,Consumer
+561,Customer_0561,Lagos,2019-07-07,SMB
+562,Customer_0562,Ibadan,2018-07-16,Enterprise
+563,Customer_0563,Port Harcourt,2018-11-10,Consumer
+564,Customer_0564,Abuja,2019-04-01,Enterprise
+565,Customer_0565,Kano,2018-11-04,SMB
+566,Customer_0566,Abuja,2019-06-07,Consumer
+567,Customer_0567,Lagos,2018-12-20,Consumer
+568,Customer_0568,Lagos,2019-07-12,Consumer
+569,Customer_0569,Kano,2019-05-08,Consumer
+570,Customer_0570,Ibadan,2019-09-03,Consumer
+571,Customer_0571,Kano,2018-10-23,Consumer
+572,Customer_0572,Kano,2019-08-25,Consumer
+573,Customer_0573,Ibadan,2018-12-26,Enterprise
+574,Customer_0574,Port Harcourt,2018-09-03,Enterprise
+575,Customer_0575,Ibadan,2018-10-12,SMB
+576,Customer_0576,Ibadan,2019-01-13,SMB
+577,Customer_0577,Ibadan,2018-12-26,Consumer
+578,Customer_0578,Ibadan,2019-07-10,Consumer
+579,Customer_0579,Abuja,2019-01-07,Enterprise
+580,Customer_0580,Port Harcourt,2019-09-18,Enterprise
+581,Customer_0581,Port Harcourt,2019-03-25,SMB
+582,Customer_0582,Port Harcourt,2019-09-11,SMB
+583,Customer_0583,Port Harcourt,2018-10-12,Consumer
+584,Customer_0584,Lagos,2018-11-25,SMB
+585,Customer_0585,Port Harcourt,2018-07-26,Enterprise
+586,Customer_0586,Kano,2019-06-10,Consumer
+587,Customer_0587,Ibadan,2019-07-28,Consumer
+588,Customer_0588,Abuja,2019-01-22,Enterprise
+589,Customer_0589,Ibadan,2018-08-19,Enterprise
+590,Customer_0590,Lagos,2018-10-27,Consumer
+591,Customer_0591,Ibadan,2019-04-14,Consumer
+592,Customer_0592,Lagos,2018-07-18,Consumer
+593,Customer_0593,Ibadan,2018-12-09,Consumer
+594,Customer_0594,Port Harcourt,2019-04-30,Consumer
+595,Customer_0595,Port Harcourt,2019-06-17,SMB
+596,Customer_0596,Ibadan,2019-04-24,Consumer
+597,Customer_0597,Lagos,2018-08-19,Enterprise
+598,Customer_0598,Abuja,2018-09-27,Consumer
+599,Customer_0599,Lagos,2019-06-02,Consumer
+600,Customer_0600,Kano,2019-04-10,Consumer
+601,Customer_0601,Port Harcourt,2019-06-30,Consumer
+602,Customer_0602,Abuja,2018-11-29,Consumer
+603,Customer_0603,Port Harcourt,2019-01-04,SMB
+604,Customer_0604,Lagos,2018-08-28,Consumer
+605,Customer_0605,Port Harcourt,2019-03-29,SMB
+606,Customer_0606,Abuja,2019-01-24,SMB
+607,Customer_0607,Ibadan,2018-11-25,SMB
+608,Customer_0608,Lagos,2019-03-30,Enterprise
+609,Customer_0609,Lagos,2019-05-26,SMB
+610,Customer_0610,Lagos,2019-05-12,Enterprise
+611,Customer_0611,Kano,2019-09-07,Consumer
+612,Customer_0612,Port Harcourt,2019-08-30,Consumer
+613,Customer_0613,Ibadan,2018-10-03,Enterprise
+614,Customer_0614,Lagos,2018-12-26,Enterprise
+615,Customer_0615,Ibadan,2018-10-03,Enterprise
+616,Customer_0616,Port Harcourt,2019-01-13,Enterprise
+617,Customer_0617,Ibadan,2019-05-09,Consumer
+618,Customer_0618,Ibadan,2019-04-27,SMB
+619,Customer_0619,Lagos,2018-08-30,Consumer
+620,Customer_0620,Port Harcourt,2019-03-10,Consumer
+621,Customer_0621,Ibadan,2019-08-13,Enterprise
+622,Customer_0622,Lagos,2018-08-30,SMB
+623,Customer_0623,Lagos,2018-07-22,Consumer
+624,Customer_0624,Lagos,2019-04-23,Consumer
+625,Customer_0625,Ibadan,2019-02-03,SMB
+626,Customer_0626,Port Harcourt,2019-05-02,Enterprise
+627,Customer_0627,Kano,2018-09-02,Consumer
+628,Customer_0628,Lagos,2019-02-11,Enterprise
+629,Customer_0629,Abuja,2019-02-17,Consumer
+630,Customer_0630,Lagos,2019-06-09,Enterprise
+631,Customer_0631,Port Harcourt,2018-07-01,Consumer
+632,Customer_0632,Lagos,2018-08-08,Enterprise
+633,Customer_0633,Lagos,2018-09-28,Enterprise
+634,Customer_0634,Lagos,2019-04-20,SMB
+635,Customer_0635,Abuja,2018-10-20,SMB
+636,Customer_0636,Kano,2019-06-04,SMB
+637,Customer_0637,Kano,2019-09-20,Consumer
+638,Customer_0638,Port Harcourt,2019-03-22,Consumer
+639,Customer_0639,Port Harcourt,2018-08-01,Consumer
+640,Customer_0640,Kano,2018-12-31,Consumer
+641,Customer_0641,Ibadan,2019-02-14,Consumer
+642,Customer_0642,Lagos,2019-02-19,Consumer
+643,Customer_0643,Ibadan,2018-07-28,SMB
+644,Customer_0644,Abuja,2019-08-17,Consumer
+645,Customer_0645,Ibadan,2019-09-23,Enterprise
+646,Customer_0646,Port Harcourt,2018-10-06,SMB
+647,Customer_0647,Abuja,2018-07-14,SMB
+648,Customer_0648,Kano,2018-11-05,Enterprise
+649,Customer_0649,Lagos,2019-08-05,Consumer
+650,Customer_0650,Kano,2019-08-10,Consumer

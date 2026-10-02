@@ -1,0 +1,15 @@
+product_id,product_name,category,unit_price
+1,Earbuds,Electronics,8900
+2,Power Bank,Electronics,12000
+3,Phone Case,Electronics,2500
+4,Smart Watch,Electronics,45000
+5,Sneakers,Fashion,22000
+6,T-Shirt,Fashion,4500
+7,Jeans,Fashion,12000
+8,Cap,Fashion,3500
+9,Desk Lamp,Home,9500
+10,Pillow Set,Home,15000
+11,Storage Box,Home,5500
+12,Coffee 1kg,Grocery,6500
+13,Tea Box,Grocery,3200
+14,Snack Pack,Grocery,2800

@@ -1,0 +1,19 @@
+{
+  "focus_month": "2019-07",
+  "active_customers": 227,
+  "new_customers": 47,
+  "new_customers_prev": 62,
+  "churned": 125,
+  "churned_prev": 95,
+  "ltv": 64054.32,
+  "ltv_prev": 61383.26,
+  "churn_rate_pct": 57.87,
+  "churn_rate_prev_pct": 52.78,
+  "retention_rate_pct": 42.13,
+  "retention_rate_prev_pct": 47.22,
+  "total_revenue": 124814025.21,
+  "revenue_focus_month": 14540330.88,
+  "top_category": "Electronics",
+  "top_region": "Port Harcourt",
+  "repeat_purchase_rate": 89.2
+}
